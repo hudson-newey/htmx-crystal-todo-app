@@ -1,0 +1,13 @@
+name: htmx-crystal-todo-app
+version: 0.1.0
+
+authors:
+  - hudson-newey
+
+targets:
+  htmx-crystal-todo-app:
+    main: src/htmx-crystal-todo-app.cr
+
+crystal: '>= 1.13.1'
+
+license: MIT
