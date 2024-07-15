@@ -1,4 +1,4 @@
-require "../../lib/controller"
+require "diamond/controller"
 
 class Index_Controller < Controller
   def initialize

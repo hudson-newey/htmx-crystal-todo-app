@@ -1,4 +1,4 @@
-require "../../lib/controller"
+require "diamond/controller"
 require "../../layouts/default"
 
 class Page_Not_Found_Controller < Controller

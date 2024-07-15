@@ -1,4 +1,4 @@
-require "../lib/layout"
+require "diamond/layout"
 
 class Api_Layout < Layout
   def render(view : String) : String

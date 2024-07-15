@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  diamond:
+    git: https://github.com/hudson-newey/diamond.git
+    version: 0.1.0+git.commit.0fd4dd61c63f18f4619bfd58d1bed572d3c60052
+

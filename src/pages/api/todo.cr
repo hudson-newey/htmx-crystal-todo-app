@@ -1,4 +1,4 @@
-require "../../lib/controller"
+require "diamond/controller"
 require "../../layouts/api"
 require "../../models/todo"
 
@@ -10,7 +10,6 @@ class Todo_Controller < Controller
   ] of Todo
 
   def initialize
-    puts "Here"
     super(Api_Layout.new)
   end
 

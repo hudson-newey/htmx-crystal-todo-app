@@ -1,4 +1,4 @@
-require "../lib/layout"
+require "diamond/layout"
 
 class Default_Layout < Layout
   def initialize

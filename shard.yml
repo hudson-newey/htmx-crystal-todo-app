@@ -11,3 +11,7 @@ targets:
 crystal: '>= 1.13.1'
 
 license: MIT
+
+dependencies:
+  diamond:
+    github: hudson-newey/diamond
